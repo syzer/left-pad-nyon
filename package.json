@@ -1,0 +1,11 @@
+{
+  "name": "left-pad-nyon",
+  "version": "1.0.0",
+  "description": "left pad for ascii lovers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "syzer",
+  "license": "ISC"
+}
