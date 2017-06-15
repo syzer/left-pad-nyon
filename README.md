@@ -1,5 +1,7 @@
 # WAT
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syzer/left-pad-nyon.svg)](https://greenkeeper.io/)
+
 left pad
 
 # WHY
